@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+echo `ls`
+echo $(echo $(ls))
+
+DATE="$(date)"
+echo $DATE
+
+DATE_MANU="07-11-2026"
+echo $DATE_MANU
