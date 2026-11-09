@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-string="Akash"
+string=""
 if [[ -z "$string" ]]; then
 	echo "String is empty"
 elif [[ -n "$string" ]]; then
